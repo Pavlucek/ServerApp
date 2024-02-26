@@ -1,0 +1,16 @@
+{
+    "payload": [
+      {
+        "LicenceUserName": "Radek",
+        "ValidationTime": 600
+      },
+      {
+        "LicenceUserName": "Guest",
+        "ValidationTime": 30
+      },
+      {
+        "LicenceUserName": "Admin",
+        "ValidationTime": 0
+      }
+    ]
+}
